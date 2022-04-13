@@ -1,5 +1,7 @@
 #include "main.h"
-/*program*/
+/**main-main block
+ * DEscription print _putchar in a new line
+ */
 int main(void)
 {
 	_putchar('_');
