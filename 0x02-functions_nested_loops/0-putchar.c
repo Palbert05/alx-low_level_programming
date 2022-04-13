@@ -1,8 +1,6 @@
 #include "main.h"
-/*program
- * putchar
- */
-int main(void)
+/*program*/
+ int main(void)
 {
 	_putchar('_');
 	_putchar('p');
